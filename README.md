@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Welcome, you are reading my profile now, so you reached the right person, Make sure that you will very be pleased to work with me. Here are some of my skills:
 
 1. Having the experience to develop professional apps using Android Studio.
@@ -24,4 +23,3 @@ I am Moomen Sameer Aldahdouh, I'm a computer engineer, I now focus on developing
 I submitted my offer to you because I am sure that this work will be done in a way that exceeds your expectations, so expect me to work hard on your project, and to keep your appointments.
 
 I will be very happy to work with you.
--->
