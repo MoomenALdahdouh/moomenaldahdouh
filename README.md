@@ -26,10 +26,4 @@ I will be very happy to work with you.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moomenaldahdouh&repo=GraduationProject)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moomenaldahdouh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
-
-
