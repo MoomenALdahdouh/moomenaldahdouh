@@ -26,5 +26,6 @@ I will be very happy to work with you.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh&hide=contribs,prs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moomenaldahdouh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
