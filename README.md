@@ -25,3 +25,6 @@ I submitted my offer to you because I am sure that this work will be done in a w
 I will be very happy to work with you.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh&hide=contribs,prs)
+
