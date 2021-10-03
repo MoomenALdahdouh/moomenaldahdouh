@@ -28,8 +28,6 @@ I will be very happy to work with you.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moomenaldahdouh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moomenaldahdouh&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
