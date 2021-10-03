@@ -20,9 +20,6 @@ You can see in my works that I use all of these skills.
 More details about me:
 I am Moomen Sameer Aldahdouh, I'm a computer engineer, I now focus on developing Android applications, I am passionate about this field and I spend most of my time enjoying building applications because this will solve many of the problems we face in life so it makes life more beautiful and easy.
 
-I submitted my offer to you because I am sure that this work will be done in a way that exceeds your expectations, so expect me to work hard on your project, and to keep your appointments.
-
-I will be very happy to work with you.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomenaldahdouh)](https://github.com/anuraghazra/github-readme-stats)
 
