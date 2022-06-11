@@ -22,7 +22,7 @@ More details about me: I am Moomen Sameer Aldahdouh, I'm a computer engineer, I 
 
 ## Skills and Experience
 📱Android / Java / Kotlin / XML / Firebase / ResetFull API
-💻PHP / MySql / HTML / CSS
+💻Laravel / PHP / MySql / HTML / CSS / Bootstrap / Servers / API
 
 - 🔭 I’m currently working on Shift ICT  
 - 🌱 I’m currently learning Laravel 
