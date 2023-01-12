@@ -41,7 +41,11 @@ More details about me: I am Moomen Sameer Aldahdouh, I'm a computer engineer, I 
 - 💬 Ask me about Android, PHP, Laravel
 - 📫 How to reach me: +970599124279 
 
-## Examples of Word
+## Examples of Word Laravel
+
+<img src="https://i.ibb.co/nm4VVT6/ezgif-com-gif-maker-1.gif" width="250"><img src="https://i.ibb.co/qMzfbWd/ezgif-com-gif-maker-2.gif" width="250"><img src="https://i.ibb.co/jV1KMhJ/ezgif-com-gif-maker-3.gif" width="250"><img src="https://i.ibb.co/yYXc59n/ezgif-com-gif-maker.gif" width="250">
+
+## Examples of Word Android
 
 <img src="https://i.ibb.co/mhPGkzB/0-GIF.gif" width="250"></img> <img src="https://i.ibb.co/nBkB4x4/0-GIF.gif" width="250"></img> <img src="https://i.ibb.co/SN3mgZC/0GIF.gif" width="250"></img> <img src="https://i.ibb.co/3h1KXCT/0gif.gif" width="250"></img> <img src="https://i.ibb.co/jTpvFCH/image.gif" width="250"></img>
 
