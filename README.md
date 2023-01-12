@@ -4,7 +4,23 @@
 
 Welcome, you are reading my profile now, so you reached the right person, Make sure that you will very be pleased to work with me. Here are some of my skills:
 
-Having the experience to develop professional apps using Android Studio.
+Having the experience to develop professional apps as Laravel Developer.
+1- PHP Laravel Framework v8.0 and v7.0.
+2- Javascript, JQuery, HTML, CSS, and Bootstrap.
+3- AJAX Requests.
+4- MySql database builder and Eloquent database.
+5- REST API.
+6- Gateways integration.
+7- Cpanel Server, AWS, and Digitalocean
+8- object-oriented programming (OOP)
+
+I have these skills:-
+1- Can analyze the idea and generate a real product.
+2- Work with a team.
+3- Professional with Github.
+4- Working on Jira and Trello.
+
+Having the experience to develop professional apps as Android Developer.
 I have several years of experience in Java programming.
 Design professional and attractive layouts XML.
 I can work UI/UX.
@@ -23,10 +39,9 @@ More details about me: I am Moomen Sameer Aldahdouh, I'm a computer engineer, I 
 ## Skills and Experience
 📱Android / Java / Kotlin / XML / Firebase / ResetFull API
 💻Laravel / PHP / MySql / HTML / CSS / Bootstrap / Servers / API
-
-- 🔭 I’m currently working on Shift ICT  
-- 🌱 I’m currently learning Laravel 
-- 💬 Ask me about Android, PHP 
+ 
+- 🌱 I’m currently Laravel Developer
+- 💬 Ask me about Android, PHP, Laravel
 - 📫 How to reach me: +970599124279 
 
 ## Examples of Word
